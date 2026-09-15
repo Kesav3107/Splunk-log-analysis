@@ -309,7 +309,7 @@ Possible future improvements include:
 
 The complete project report is available here:
 
-📘 View Project Report
+[📘 View Project Report](docs/Splunk_Log_Analysis_Final_Report.pdf)
 
 The report contains the complete project methodology, SPL query library,
 module explanations, dashboard evidence, findings, limitations and
